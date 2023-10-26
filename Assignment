@@ -8,3 +8,15 @@ For the second question
        Result1=  1 (True)
        Result2=  1 (True)
        Result3=  1 (True)
+
+
+The values are
+       Result1: (x++)=5
+                 (y--)=7
+                 (++z)=11
+      Result2:  (++x)=6
+                (--y)=6
+                (z--)=10
+      REult3:  (a--)=15
+                b=20
+                (--c)=29
